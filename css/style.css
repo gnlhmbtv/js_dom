@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #CBCE91FF, #EA738DFF);
+    }
+h1{
+    margin-left: 400px;
+    color: darkslategrey;
+}
+span{
+    margin-left: 40px;
+}
+p{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+#input1{
+    width: 60px;
+}
+#input2{
+    width: 60px;
+}
+button{
+    margin-left: 40px;
+}
